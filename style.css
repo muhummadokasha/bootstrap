@@ -1,0 +1,23 @@
+.yellow{
+    background-color: rgb(226, 139, 51);
+    text-align: center;
+}
+ul{
+text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    list-style: none;
+    padding: 10px 20px;
+}
+.pink{
+background-color: pink;
+}
+.container{
+    border: 5PX solid black;
+}
+.row{
+    border: 3px solid red;
+}
